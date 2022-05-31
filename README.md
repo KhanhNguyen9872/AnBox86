@@ -25,7 +25,7 @@ Proot-Static by Zhymabek Roman https://github.com/ZhymabekRoman/proot-static
 
 PRoot-Distro by xeffyr https://github.com/termux/proot-distro
 
-
+ 
 # Huge thanks to
 
 https://youtube.com/c/WMCBTech
